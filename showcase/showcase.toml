@@ -1,0 +1,15 @@
+[[media]]
+file = "dive.json.gz"
+name = "A light in pursuit"
+
+[[media]]
+file = "dive.png"
+name = "Read the dark"
+
+[[media]]
+file = "flare.png"
+name = "Something lights the abyss"
+
+[[media]]
+file = "title.png"
+name = "The deep is waiting"

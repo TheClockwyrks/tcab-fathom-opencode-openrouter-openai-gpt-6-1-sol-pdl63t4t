@@ -1,0 +1,6 @@
+/* Preserve the page's viewport-sized layout when the runtime pins a measured
+   CSS size at DPR 1. The engine still owns backing-store sizing and stage fit. */
+#stage {
+  width: 100vw !important;
+  height: 100vh !important;
+}
